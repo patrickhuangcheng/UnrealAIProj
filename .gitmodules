@@ -1,0 +1,4 @@
+[submodule "Plugins/SpiderNavigation"]
+	path = Plugins/SpiderNavigation
+	url = https://github.com/patrickhuangcheng/spider-navigation-plugin.git
+	branch = master
